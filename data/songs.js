@@ -5,7 +5,7 @@ const songs = [
     artist: "Taiyo Ky",
     runtimeInSeconds: 193,
   },
-  {
+  {  
     title: "Up",
     album: "Bluewerks Vol. 1: Up Down Left Right",
     artist: "Sebastian Kamae",
